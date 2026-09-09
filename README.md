@@ -13,3 +13,11 @@ Parte 3 y 4 - Primer Servidor
 Cuando se observa el "app.get()", este se utiliza para comunicarle al servidor que debe hacer al momento de que un usuario visite cierta url, en la misma línea se observa el "req" y el "res", significan "request" y "response" respectivamente, como su nombre indica, permiten contener la información de la petición del cliente y asi mismo enviar una respuesta.
 
 El "app.listen", según se puede apreciar, se utiliza al iniciar el servidor y le indica donde escuchar las peticiones en el puerto que le sea especificado.
+
+Parte 5.1 – Datos de servicios
+
+En resumidas cuentas, contiene los servicios provenientes del "molde" o "plantilla", evidentemente será adaptado en un futuro (cercano), pero de momento se deja asi para probar y una vez funcionando se procede con la adaptación.
+
+Parte 6 – API de servicios
+
+Entre las diferencias entre "res.send()" y "res.json()", tal vez una de las más grandes, es su forma de funcionar, mientras que "res.send()" se inclina a un uso más general siendo capaz de detectar tipos de datos y cambiar su cabecera en funcion de lo que recibe, el "res.json()" toma todo valor y lo convierte a json sin importar que sea, practicamente cuenta con un diseño más exclusivo para APIs REST.
