@@ -21,3 +21,4 @@ En resumidas cuentas, contiene los servicios provenientes del "molde" o "plantil
 Parte 6 – API de servicios
 
 Entre las diferencias entre "res.send()" y "res.json()", tal vez una de las más grandes, es su forma de funcionar, mientras que "res.send()" se inclina a un uso más general siendo capaz de detectar tipos de datos y cambiar su cabecera en funcion de lo que recibe, el "res.json()" toma todo valor y lo convierte a json sin importar que sea, practicamente cuenta con un diseño más exclusivo para APIs REST.
+
