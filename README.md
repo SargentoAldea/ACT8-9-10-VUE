@@ -22,3 +22,7 @@ Parte 6 – API de servicios
 
 Entre las diferencias entre "res.send()" y "res.json()", tal vez una de las más grandes, es su forma de funcionar, mientras que "res.send()" se inclina a un uso más general siendo capaz de detectar tipos de datos y cambiar su cabecera en funcion de lo que recibe, el "res.json()" toma todo valor y lo convierte a json sin importar que sea, practicamente cuenta con un diseño más exclusivo para APIs REST.
 
+Parte 7 – Consulta por ID
+
+"req.params" sirve para poder guardar valores que esten en la dirección web, se usa con "Number" principalmente porque "req.params" hace uso de strings, al usar "Number" se convierte a número para poder operar con el.
+Cuando se habla del estado 404, o error 404 se refiere a que no se ha encontrado la página solicitada
