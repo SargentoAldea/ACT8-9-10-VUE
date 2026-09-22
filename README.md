@@ -64,3 +64,14 @@ Resultado:
 []
 
 *Consola de Node no presenta problemas
+
+¿Como ejecutar el Backend?
+
+En primer lugar se necesita abrir una terminal en la carpeta "BACKEND" en la cual se procede de la siguiente manera:
+
+1. Ejecutar "npm install" para instalar dependencias
+2. Iniciar servidor usando "node "server.js"
+3. Ingresar en el navegador o desde el propio Vs Code a "http://localhost:3000"
+
+Reflexión final
+Una actividad bastante divertida y entretenida diría yo, pero no deja de ser importante para nuestro aprendizaje y porsupuesto que para poder tener codigo a mano en un futuro no muy lejano e incluso toda la información en este readme sirve perfectamente como apunte o para refrescar ciertos contenidos.
