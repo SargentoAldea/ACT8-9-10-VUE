@@ -1,5 +1,6 @@
 # ACT9-VUE
-vueee
+Julián Chirino
+
 
 Parte 1 y 2 - Preparación Backend
 
@@ -25,4 +26,8 @@ Entre las diferencias entre "res.send()" y "res.json()", tal vez una de las más
 Parte 7 – Consulta por ID
 
 "req.params" sirve para poder guardar valores que esten en la dirección web, se usa con "Number" principalmente porque "req.params" hace uso de strings, al usar "Number" se convierte a número para poder operar con el.
-Cuando se habla del estado 404, o error 404 se refiere a que no se ha encontrado la página solicitada
+Cuando se habla del estado 404, o error 404 se refiere a que no se ha encontrado la página solicitada.
+
+Parte 8 - Filtro por Categoría
+
+De forma sencilla, la diferencia entre req.params y req.query es que el primero sirve a la hora de identificar un recurso en específico, además es obligatorio, mientras que el segundo se más para aplicar un filtro y es más permisivo siendo opcional.
