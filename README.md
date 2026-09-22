@@ -75,3 +75,13 @@ En primer lugar se necesita abrir una terminal en la carpeta "BACKEND" en la cua
 
 Reflexión final
 Una actividad bastante divertida y entretenida diría yo, pero no deja de ser importante para nuestro aprendizaje y porsupuesto que para poder tener codigo a mano en un futuro no muy lejano e incluso toda la información en este readme sirve perfectamente como apunte o para refrescar ciertos contenidos.
+
+
+
+//////////FUSIÓN CON ACT8//////////
+Este era un repo local, debido a que pase por alto la parte del documento que decia que simplemente había que usar el repo de la ACT8 para la 9 Ocurrio esto y para no tenerlos separados, se ordena y fusiona para que quede 1 solo.
+
+Parte 1 – Reutilización del proyecto
+
+Por ahora unicamente se reutilizo useRecepcionStore.js aunque evidentemende se modifico dando como resultado useBolsaStore.js, Básicamente es lo mismo y fue el elegido debido a su facilidad para adaptar, no se descarta tomar algo de la ACT7 más adelante, pero por ahora siendo el más sencillo de adaptar, unicamente se da el inicio con este.
+
