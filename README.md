@@ -31,3 +31,7 @@ Cuando se habla del estado 404, o error 404 se refiere a que no se ha encontrado
 Parte 8 - Filtro por Categoría
 
 De forma sencilla, la diferencia entre req.params y req.query es que el primero sirve a la hora de identificar un recurso en específico, además es obligatorio, mientras que el segundo se más para aplicar un filtro y es más permisivo siendo opcional.
+
+Parte 9 – Middleware JSON
+
+express.json() tendrá un rol más importante en futuros trabajos dado que permite interpretar cuerpos de solicitudes en formato JSON, infaltable cuando se hable de POST y PUT
