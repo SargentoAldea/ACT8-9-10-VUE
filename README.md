@@ -1,6 +1,6 @@
 # ACT9-VUE
 Julián Chirino
-
+Rubro: Fabricación Bolsas Plasticas o Ecologicas
 
 Parte 1 y 2 - Preparación Backend
 
@@ -18,6 +18,9 @@ El "app.listen", según se puede apreciar, se utiliza al iniciar el servidor y l
 Parte 5.1 – Datos de servicios
 
 En resumidas cuentas, contiene los servicios provenientes del "molde" o "plantilla", evidentemente será adaptado en un futuro (cercano), pero de momento se deja asi para probar y una vez funcionando se procede con la adaptación.
+
+//Update//
+Finalmente me fui por los servicios de fabricación de bolsas plasticas, inspirado por un negocio de un familiar, el cual se dedica a la venta del producto ya fabricado, todos los productos/servicios intentan ser cercanos a la realidad, la plantilla base sigue siendo iguales (nombre, cat, desc y precio) pero todos los servicios fueron reemplazados por los "reales" de la empresa, por lo tanto todos cuentan con su nombre, categoría (Aseo, Comercial, Ecologico o Servicio), precio y Descripción.
 
 Parte 6 – API de servicios
 
