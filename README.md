@@ -97,3 +97,7 @@ Para poder cumplir con este punto, se hace uso del useBolsaStore.js, el cual fue
 Parte 4 - Filtros, condicionales e interacción
 
 Para este punto se implementa un buscador de texto y un select para las categorias el cual esta vinculado con v-model, se hace uso de "computed" para poder mostrar los servicios filtrados, mediante un emit el componente hijo envia la selección del usuario, lo cual guarda el servicio en estado global para poder usarlo posteriormente.
+
+Parte 5 - Formulario de Contacto
+
+Este punto cuenta con validaciones basicas que se encargan de revisar si los campos obligatorios estan vacios, mediante el hook o gancho "onMounted" el campo del sevicio de interes se puede pre-cargar en caso de que el usuario lo tenga seleccionado previamente y al final es que se muestra un resumen que oculta el formulario.
