@@ -93,3 +93,7 @@ La navegación es mediante un simple NavBar en App.vue haciendo uso de Vue Route
 Parte 3 - Catálogo de Servicios y componentes
 
 Para poder cumplir con este punto, se hace uso del useBolsaStore.js, el cual fue adaptado de la actividad anterior, para la sección de servicios se crea un arreglo reactivo con las 6 prestaciones, tambien se crea el componente reutilizable "moldePiola.vue" el cual es llamado dentro de un v-for en Servicios.vue, la información de cada servicio se comunica mediante una prop llamada "servicio".
+
+Parte 4 - Filtros, condicionales e interacción
+
+Para este punto se implementa un buscador de texto y un select para las categorias el cual esta vinculado con v-model, se hace uso de "computed" para poder mostrar los servicios filtrados, mediante un emit el componente hijo envia la selección del usuario, lo cual guarda el servicio en estado global para poder usarlo posteriormente.
