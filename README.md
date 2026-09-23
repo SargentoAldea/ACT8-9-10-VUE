@@ -101,3 +101,9 @@ Para este punto se implementa un buscador de texto y un select para las categori
 Parte 5 - Formulario de Contacto
 
 Este punto cuenta con validaciones basicas que se encargan de revisar si los campos obligatorios estan vacios, mediante el hook o gancho "onMounted" el campo del sevicio de interes se puede pre-cargar en caso de que el usuario lo tenga seleccionado previamente y al final es que se muestra un resumen que oculta el formulario.
+
+Parte 6 - Diseño y revisión final
+
+Para finalizar se aplico un estilo muy sencillo, siendo honesto algo generico pero acorde al sitio, intentado usar colores que puedan enfocarse en la sustentabilidad, por ello se ven colores grises y verdes, se les dio cierto estilo a las tarjetas para los servicios y formularios además de algunos retoques para inicio y nosotros, de momento no se detecto errores que no permitan utilizar este trabajo.
+
+**Nota: Tremendo dolor de cabeza el organizar las actividades
