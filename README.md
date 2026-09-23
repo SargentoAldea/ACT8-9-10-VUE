@@ -85,3 +85,11 @@ Parte 1 – Reutilización del proyecto
 
 Por ahora unicamente se reutilizo useRecepcionStore.js aunque evidentemende se modifico dando como resultado useBolsaStore.js, Básicamente es lo mismo y fue el elegido debido a su facilidad para adaptar, no se descarta tomar algo de la ACT7 más adelante, pero por ahora siendo el más sencillo de adaptar, unicamente se da el inicio con este.
 
+Parte 2 - Navegación y vistas
+
+Por ahora todo muy simple, las vistas creadas se encuentran en la carpeta "vistas" y corresponden a Inicio, Nosotros, Contacto y Servicios, dada su simplicidad por ahora no fue adaptado nada de la actividad anterior para estas vistas.
+La navegación es mediante un simple NavBar en App.vue haciendo uso de Vue Router mediante los "router-link" el cual reemplaza a los enlaces tradicionales y la gracia de esto es no recargar la pagina completamente.
+
+Parte 3 - Catálogo de Servicios y componentes
+
+Para poder cumplir con este punto, se hace uso del useBolsaStore.js, el cual fue adaptado de la actividad anterior, para la sección de servicios se crea un arreglo reactivo con las 6 prestaciones, tambien se crea el componente reutilizable "moldePiola.vue" el cual es llamado dentro de un v-for en Servicios.vue, la información de cada servicio se comunica mediante una prop llamada "servicio".
