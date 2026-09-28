@@ -107,3 +107,8 @@ Parte 6 - Diseño y revisión final
 Para finalizar se aplico un estilo muy sencillo, siendo honesto algo generico pero acorde al sitio, intentado usar colores que puedan enfocarse en la sustentabilidad, por ello se ven colores grises y verdes, se les dio cierto estilo a las tarjetas para los servicios y formularios además de algunos retoques para inicio y nosotros, de momento no se detecto errores que no permitan utilizar este trabajo.
 
 **Nota: Tremendo dolor de cabeza el organizar las actividades
+**Nota 2: Menos mal me di cuenta que faltaba ordenar y subir la 10
+
+//////////FUSIÓN CON ACT10//////////
+
+Intente arreglar los cachos que tenía y falle estrepitosamente aun habiendolo creado nuevamente...
